@@ -1,4 +1,4 @@
-# Fast and Furi Hash 
+# Hash Gone Right 
 
 **B.Tech Final Year Thesis Project**  
 **NIT Calicut, 2024-25**
